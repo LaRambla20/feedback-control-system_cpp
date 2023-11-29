@@ -1,6 +1,5 @@
 Feedback Control System in C++
 =================================================
-# feedback-control-system_cpp
 
 ## Description
 This repository contains one c++ script and two c++ libraries that reproduce the following feedback control system (instead implemented in simulink).
